@@ -1,0 +1,58 @@
+body {
+    font: 110% sans-serif;
+    text-align: center;
+}
+
+img {
+    float: right;
+}
+
+h1 {
+    font-weight: normal;
+    margin: 0;
+    color: #4d75ac;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 110%;
+    margin-left: 10%;
+    margin-top: -0.4em;
+    color: #5f8fca;
+}
+
+p {
+    line-height: 2em;
+}
+
+li {
+    line-height: 1.6em;
+    padding-left: 1em;
+}
+
+a {
+    color: #e1894f;
+}
+
+.page {
+    text-align: left;
+    width: 50%;
+    margin: 3em auto;
+}
+
+.heading {
+    margin-top: 1em;
+    width: 100%;
+}
+
+.content {
+    clear: both;
+    padding-top: 2em;
+}
+
+.watermark {
+    margin: 1em;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
